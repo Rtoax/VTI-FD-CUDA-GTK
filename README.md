@@ -14,6 +14,10 @@ You can get the result.
 
 ![snapshot](screenshot02-snapshot.png)
 
+Wave equation as follows:
+
+![wave equation](screenshot03-equation.jpg)
+
 ## dependence & envrioment 依赖以及编译环境
 
 * Linux
