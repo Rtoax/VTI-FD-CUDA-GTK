@@ -12,7 +12,7 @@ The main interface of the software is shown in the figure below
 You can get the result.
 你可以得到的结果.
 
-![snapshot](screenshot02-snapshot.jpg)
+![snapshot](screenshot02-snapshot.png)
 
 ## dependence & envrioment 依赖以及编译环境
 
