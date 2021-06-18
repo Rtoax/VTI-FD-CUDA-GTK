@@ -1,3 +1,9 @@
+# 基于GPU NVIDIA CUDA 的 地震波 VTI 介质有限差分正演模拟
+
+Copyright (C) RongTao, All right reserve.
+
+# 详情
+
 This is a 2D and 3D VTI seismic finite difference forward modeling software based on NVIDIA GPU acceleration.
 这是一个基于NVIDIA GPU加速运算的二维、三维VTI介质地震有限差分正演模拟软件。
 
