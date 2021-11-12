@@ -1,3 +1,4 @@
+# Copyright (C) RongTao, All right reserve.
 CUDA_INSTALL_PATH = /usr/local/cuda-7.5
 GCC_INSTALL_PATH = /usr
 
