@@ -2,7 +2,7 @@
 //a##         2D Acoustic VTI Medium Forward 
 //a##    
 //a##  Ps :GPU(CUDA)  
-//a##
+//a##	 Copyright (C) RongTao, All right reserve.
 //a##/*a***************************
 //a##Function for VTI medium modeling,
 //a##
