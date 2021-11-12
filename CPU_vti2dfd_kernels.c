@@ -13,12 +13,13 @@ Function for VTI medium modeling,2017.2.5
           dq/dt_=rho*vp*vpn*du/dx_+rho*vp^2*dw/dz_ ,
                      vpx^2=vp^2*(1+2*epsilu);
                      vpn^2=vp^2*(1+2*deta);
+ Copyright (C) RongTao, All right reserve.
 ****************************/
 //########################################################
-#include<stdio.h>
-#include<malloc.h>
-#include<math.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <malloc.h>
+#include <math.h>
+#include <stdlib.h>
 #include "include/hc/cjbsegy.h"
 #include "include/hc/fft.c"
 #include "include/hc/alloc.c"
@@ -360,7 +361,8 @@ void mute_directwave(int flag_mu,int nx,int nt,float dt_,float favg,
         for(j=0;j<nt;j++)if(j<mu_nt)
            p_cal[i]=0.0;
        }else{}
-}
+}
+
 //a########################################################################
 
 void CPU_vti2dfd(int nx, int nz,int dx,int dz,int npd, int SV,const char FNv[],const char FNe[],const char FNd[],
