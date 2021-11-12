@@ -1,3 +1,4 @@
+/* Copyright (C) RongTao, All right reserve. */
 #include<gtk/gtk.h>
 #include<stdio.h>
 #include<malloc.h>
