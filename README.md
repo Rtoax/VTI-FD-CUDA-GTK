@@ -2,6 +2,8 @@
 
 Copyright (C) RongTao, All right reserve.
 
+* [Rong Tao GitHub](https://github.com/Rtoax)
+
 # 详情
 
 This is a 2D and 3D VTI seismic finite difference forward modeling software based on NVIDIA GPU acceleration.
