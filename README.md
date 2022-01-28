@@ -10,6 +10,8 @@ Copyright (C) RongTao, All right reserve.
 - 💞️ I’m looking to collaborate on [libcareplus](https://github.com/Rtoax/libcareplus), [test-linux](https://github.com/Rtoax/test-linux) and [more](https://github.com/Rtoax).
 - 📫 How to reach me [GitHub](https://github.com/Rtoax), [CSDN](https://rtoax.blog.csdn.net/), [Gitee](https://gitee.com/rtoax) and 哆啦Linux梦.
 
+![哆啦Linux梦](fwi.png)
+
 # 详情
 
 This is a 2D and 3D VTI seismic finite difference forward modeling software based on NVIDIA GPU acceleration.
