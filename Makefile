@@ -22,7 +22,7 @@ all:
 	$(NVCC) -c $(GPU2DFILES)
 	$(NVCC) -c $(GPU3DFILES)
 	$(GCC) -c $(CFILES) 
-	$(MPICC) -o $(EXECNAME) $(LCUDA) $(LIB) $(LGTK) $(OBJECTS)
-
-
+	$(MPICC) -o $(EXECNAME) $(LCUDA) $(LIB) $(OBJECTS) $(LGTK)
+	rm -f *.o *~
+clean:
 	rm -f *.o *~
